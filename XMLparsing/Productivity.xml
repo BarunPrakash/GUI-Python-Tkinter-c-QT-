@@ -1,0 +1,21 @@
+<timeSeriesResponse>
+    <queryInfo>
+        <locationParam>992019</locationParam>
+        <variableParam updated="yes">22</variableParam>
+        <timeParam>
+            <beginDateTime>2019-09-1T15:15:55.271</beginDateTime>
+            <endDateTime>2019-10-1T15:15:55.271</endDateTime>
+        </timeParam>
+     </queryInfo>
+     <timeSeries date="1" update="yes">5<noflines>5</noflines>
+     </timeSeries>
+	<timeSeries date="2">
+        <noflines>0</noflines>
+     </timeSeries>
+	<timeSeries date="2-9-2019">
+        <noflines>0</noflines>
+     </timeSeries>
+	<timeSeries date="3-9-2019">
+        <noflines>0</noflines>
+     </timeSeries>
+</timeSeriesResponse>
